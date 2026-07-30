@@ -2,10 +2,7 @@ project = 'communities-anywhere'
 copyright = '2026'
 author = 'Admin'
 
-extensions = [ 'sphinx.ext.autodoc',
-               'sphinx.ext.napoleon',
-               'sphinx_sitemap',
-              ]
+extensions = []
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
