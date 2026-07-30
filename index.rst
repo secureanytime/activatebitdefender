@@ -3,10 +3,15 @@ Install and Activate Bitdefender Ultimate Security with Your License Key in Minu
 
 To **activate Bitdefender** with a license key, sign in to Bitdefender Central, open **My Subscriptions**, click **Activate with code**, and enter your 10-digit key. Your subscription turns on right away, and you can install the app on any device linked to that account. 
 
-Buying `Bitdefender Ultimate Security <https://www.bitdefender.com/en-in/consumer/ultimate-security>`_ is the easy part. Getting it up and running on your PC or phone trips up a lot of people. This guide walks you through the whole process, from your first login to fixing the errors that block activation. 
-
 .. raw:: html
 
+    <div style="text-align: center; margin: 20px 0;">
+        <a href="https://installbitdefender.github.io/installbitdefender/" style="background-color: #007bff; color: white; padding: 12px 24px; font-weight: bold; border-radius: 6px; text-decoration: none; display: inline-block; font-size: 16px;">
+            Get Started with Bitdefender
+        </a>
+    </div>
+
+Buying `Bitdefender Ultimate Security <https://www.bitdefender.com/en-in/consumer/ultimate-security>`_ is the easy part. Getting it up and running on your PC or phone trips up a lot of people. This guide walks you through the whole process, from your first login to fixing the errors that block activation. 
 
 1. What You Need Before You Start
 -------------------------------
