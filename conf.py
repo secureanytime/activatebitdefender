@@ -12,6 +12,11 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'alabaster' # Screenshot wala classic white theme
 
+# conf.py
+
+html_title = "Activate Bitdefender Ultimate Security"
+html_short_title = "Activate Bitdefender Ultimate Security"
+
 
 # Meta Tags Configuration
 html_context = {
